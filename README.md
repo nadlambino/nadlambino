@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=nadlambino&icon=5&color=1)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Nad Lambino</h1>
 <h3 align="center">A passionate web developer</h3>
 
